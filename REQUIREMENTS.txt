@@ -1,0 +1,5 @@
+pyaml
+Quandl
+requests
+requests-cache
+termcolor
